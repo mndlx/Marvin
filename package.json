@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "workspaces": [
+        "mv-app"
+    ],
+    "scripts": {
+        "run-fe": "cd mv-app && npm run dev"
+    }
+}
